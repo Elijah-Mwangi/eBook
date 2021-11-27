@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">eBook</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">eBook</string>
+    <string name="nav_header_subtitle">ebook@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_app">Applications</string>
+    <string name="menu_slideshow">Quick Links</string>
+    <string name="menu_tools">Contacts</string>
+    <string name="menu_share">More</string>
+    <string name="menu_send">About</string>
+
+    <string name="About">
+        <p>eBook is an android app that helps students in learning.It gives students the required materials to use in school.It is also used by teachers to teach students with.</p>
+        <p>To many students who lack enough book materials, eBook is used as a wholesome facility to help them get the books they need.</p>
+        <p>Using eBook learners can also get material online and
+            tutorials that they can use to sharpen their skills.</p>
+        <p>eBook can give learners quality reading material and keeps records of saved information.</p>
+        <i>eBook!!!</i>
+    </string>
+    <string name="exit">Exit</string>
+    <string name="logout">Logout</string>
+    <string name="menu_gallery">Applications</string>
+    <string name="html_link">
+        <p>Primary School books and learning equipment for all grades.</p> <br />
+        <p>You can find all these in the link here : </p><br />
+        <a href="https://www.w3schools.com/html/default.asp">Primary Students link !!</a>
+    </string>
+    <string name="css_link">
+        <p>Secondary School books and learning equipment for all grades. </p> <br />
+        <p>You can find all these in the link here : </p><br />
+        <a href="https://www.w3schools.com/css/default.asp">Secondary Students link !!</a>
+    </string>
+    <string name="php_link">
+        <html>
+        <p>Campus students and college students can get learning material on specified units on different degree and diploma courses. Students are advised to check keenly on the courses that they take.</p> <br />
+        <p>You can find all these in the link here : </p><br />
+        <a href="https://www.w3schools.com/php/default.asp">College Students link !!</a></html>
+    </string>
+
+
+</resources>
